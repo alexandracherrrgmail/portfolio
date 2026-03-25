@@ -17,4 +17,4 @@
 4. [Чек-лист контроля качества](04-checklist/README.md)
 5. [Из данных в документацию](05-data-to-documentation/README.md)
 
-**Контакты:** +7 906 062-11-12 | [Email](mailto:alexandracher@mail.ru)
+**Контакты:** +7 906 062-11-12 | [alexandracher@mail.ru](mailto:alexandracher@mail.ru)
