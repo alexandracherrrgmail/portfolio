@@ -16,7 +16,7 @@
 - Инструкция масштабирована на все регионы
 
 ## Схема процесса
-![Схема](process_map.png)
+![Схема](assetsbanner.png)
 
 ## Сжатая версия (10 ключевых шагов)
-[sap_instruction_short.md](sap_instruction_short.md)
+[sap_instruction_short.md](sap_instruction_short.pdf)
