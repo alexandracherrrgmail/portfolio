@@ -20,6 +20,3 @@
 
 ## Сжатая версия (10 ключевых шагов)
 [sap_instruction_short.md](sap_instruction_short.md)
-
-## Полная версия (70 стр, внутренний регламент)
-[full_instruction.pdf](full_instruction.pdf)
