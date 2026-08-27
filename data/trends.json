@@ -1,0 +1,86 @@
+{
+  "last_updated": "2026-08-27T11:36:31.055047",
+  "region_id": 1,
+  "professions": [
+    {
+      "profession": "Python разработчик",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "Java разработчик",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "Data Scientist",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "Аналитик данных",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "DevOps инженер",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "Frontend разработчик",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "Product Manager",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "Менеджер проектов",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "HR менеджер",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    },
+    {
+      "profession": "Маркетолог",
+      "vacancies_count": 0,
+      "average_salary": null,
+      "median_salary": null,
+      "top_skills": [],
+      "error": "Нет данных"
+    }
+  ]
+}
