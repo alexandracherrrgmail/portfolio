@@ -11,23 +11,23 @@ from datetime import datetime
 
 import requests
 
-# === НАСТРОЙКИ ===
+# === НАСТРОЙКИ (исправлены) ===
 PROFESSIONS = [
-    "Python разработчик",
-    "Java разработчик",
+    "Python",
+    "Java",
     "Data Scientist",
     "Аналитик данных",
-    "DevOps инженер",
-    "Frontend разработчик",
+    "DevOps",
+    "Frontend",
     "Product Manager",
     "Менеджер проектов",
     "HR менеджер",
     "Маркетолог",
 ]
 
-REGION_ID = 1  # 1 = Москва, 113 = Россия, 2 = Санкт-Петербург
+REGION_ID = 113  # 113 = Россия (вместо Москвы, чтобы больше вакансий)
 VACANCIES_PER_PROFESSION = 100
-SALARY_STATS_LIMIT = 50  # сколько вакансий использовать для статистики зарплат
+SALARY_STATS_LIMIT = 50
 TOP_SKILLS_LIMIT = 15
 
 
@@ -38,7 +38,7 @@ def fetch_vacancies(profession, region=REGION_ID, per_page=VACANCIES_PER_PROFESS
         "text": profession,
         "area": region,
         "per_page": per_page,
-        "only_with_salary": True,
+        "only_with_salary": False,  # ← ИЗМЕНЕНО: ищем все вакансии, не только с зарплатой
     }
     try:
         response = requests.get(url, params=params, timeout=30)
@@ -125,6 +125,9 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
     print("✅ Готово! Файл сохранён в data/trends.json")
 
+
+if __name__ == "__main__":
+    main()
 
 if __name__ == "__main__":
     main()
