@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-27T11:36:31.055047",
-  "region_id": 1,
+  "last_updated": "2026-08-27T11:43:05.651409",
+  "region_id": 113,
   "professions": [
     {
-      "profession": "Python разработчик",
+      "profession": "Python",
       "vacancies_count": 0,
       "average_salary": null,
       "median_salary": null,
@@ -11,7 +11,7 @@
       "error": "Нет данных"
     },
     {
-      "profession": "Java разработчик",
+      "profession": "Java",
       "vacancies_count": 0,
       "average_salary": null,
       "median_salary": null,
@@ -35,7 +35,7 @@
       "error": "Нет данных"
     },
     {
-      "profession": "DevOps инженер",
+      "profession": "DevOps",
       "vacancies_count": 0,
       "average_salary": null,
       "median_salary": null,
@@ -43,7 +43,7 @@
       "error": "Нет данных"
     },
     {
-      "profession": "Frontend разработчик",
+      "profession": "Frontend",
       "vacancies_count": 0,
       "average_salary": null,
       "median_salary": null,
